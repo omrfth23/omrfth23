@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Ömer Fatih Aslan</h1>
-<h3 align="center">A software engineer exploring BackEnd technologies, dancing with code, and discovering new knowledge with every line.💻✨</h3>
+<h3 align="center">Software Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
