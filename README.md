@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">👋 About Me<br>Hello! I'm Ömer Fatih Aslan, a passionate Java Backend Developer with a strong interest in Spring Boot, RESTful API development, and clean code architecture.<br>🔭 I’ve built several full-stack and backend-focused projects, including authentication systems, blog platforms, and RESTful APIs.<br>🌱 I’m constantly learning and exploring technologies such as Docker, Kafka, and CI/CD pipelines.<br>💡 I believe in writing clean, readable, and well-documented code.<br></p>
+<p align="left">👋 About Me<br>Hello! I'm Ömer Fatih Aslan, a passionate Java Backend Developer with a strong interest in Spring Boot, RESTful API development, and clean code architecture.<br>I enjoy building backend systems that are robust, scalable, and easy to maintain. Currently, I'm working on improving my skills in microservice architecture, MongoDB, and software testing.<br><br>🔭 I’ve built several full-stack and backend-focused projects, including authentication systems, blog platforms, and RESTful APIs.<br>🌱 I’m constantly learning and exploring technologies such as Docker, Kafka, and CI/CD pipelines.<br>💡 I believe in writing clean, readable, and well-documented code.<br>📫 Feel free to reach out to me at: omrfth23@gmail.com</p>
 
 ###
 
@@ -71,7 +71,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omrfth23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=omrfth23&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omrfth23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
