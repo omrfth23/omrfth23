@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">👋 About Me<br>Hello! I'm Ömer Fatih Aslan, a passionate Java Backend Developer with a strong interest in Spring Boot, RESTful API development, and clean code architecture.<br>I enjoy building backend systems that are robust, scalable, and easy to maintain. Currently, I'm working on improving my skills in microservice architecture, MongoDB, and software testing.<br><br>🔭 I’ve built several full-stack and backend-focused projects, including authentication systems, blog platforms, and RESTful APIs.<br>🌱 I’m constantly learning and exploring technologies such as Docker, Kafka, and CI/CD pipelines.<br>💡 I believe in writing clean, readable, and well-documented code.<br>📫 Feel free to reach out to me at: omrfth23@gmail.com</p>
+<p align="left">About Me<br>I'm Ömer Fatih Aslan, a passionate Java Backend Developer with a strong interest in Spring Boot, RESTful API development, and clean code architecture.<br>I enjoy building backend systems that are robust, scalable, and easy to maintain. Currently, I'm working on improving my skills in microservice architecture, MongoDB, and software testing.<br><br>🔭 I’ve built several full-stack and backend-focused projects, including authentication systems, blog platforms, and RESTful APIs.<br>🌱 I’m constantly learning and exploring technologies such as Docker, Kafka, and CI/CD pipelines.<br>💡 I believe in writing clean, readable, and well-documented code.<br>📫 Feel free to reach out to me at: omrfth23@gmail.com</p>
 
 ###
 
